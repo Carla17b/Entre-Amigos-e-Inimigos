@@ -1,4 +1,4 @@
-# Projeto - Inf08
+# Entre Amigos e Inimigos
 
 `Tecnologia da Informação- Grau Técnico`
 
