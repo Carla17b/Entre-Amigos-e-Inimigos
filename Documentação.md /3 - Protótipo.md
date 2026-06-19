@@ -76,12 +76,15 @@ Cor de Fundo Principal: Roxo (#674c82).
 Elementos de UI: Utilizam cantos arredondados (corner_radius=30) para um visual moderno e suave. Cores como #948d9c (cinza/roxo) e #ffffff (branco) são usadas para botões e fundos de campos de entrada, com texto em preto (#000000) para contraste
 
 # TelaMenu
+
 <img width="1031" height="617" alt="image" src="https://github.com/user-attachments/assets/40892685-919a-47e1-b3c5-6c1a8edde6c7" />
 
 # TelaJogo
+
 <img width="1031" height="618" alt="image" src="https://github.com/user-attachments/assets/9a85c2ca-dff3-4934-bfb1-ed22e66f92e6" />
 
 # TelaFim
+
 <img width="1029" height="613" alt="image" src="https://github.com/user-attachments/assets/43704dc2-fa20-476c-8efa-0bd07e79019c" />
 
 
